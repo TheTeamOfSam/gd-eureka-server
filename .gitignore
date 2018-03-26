@@ -4,3 +4,4 @@ target/test-classes/com/sam/graduation/design/gdeurekaserver/GdEurekaServerAppli
 gd-eureka-server.iml
 .classpath
 .project
+mvnw
