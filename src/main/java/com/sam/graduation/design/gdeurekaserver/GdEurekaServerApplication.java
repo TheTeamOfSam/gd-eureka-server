@@ -11,6 +11,5 @@ public class GdEurekaServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GdEurekaServerApplication.class, args);
 	}
-
-
+	
 }
