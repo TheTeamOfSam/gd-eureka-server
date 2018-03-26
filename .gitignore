@@ -2,3 +2,4 @@ target/classes/com/sam/graduation/design/gdeurekaserver/GdEurekaServerApplicatio
 target/classes/application.properties
 target/test-classes/com/sam/graduation/design/gdeurekaserver/GdEurekaServerApplicationTests.class
 gd-eureka-server.iml
+.classpath
